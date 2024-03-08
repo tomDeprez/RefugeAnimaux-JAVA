@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "d:\\Selenium\\selenium-java-4.18.1\\selenium-chrome-driver-4.18.1.jar"
+        ]
+    }
+}
